@@ -28,6 +28,9 @@ RUN echo "*** Installing Combustion ***" \
   && mkdir -p /kettu \
   && curl -o /tmp/kettu.tar.gz -L "https://github.com/endor/kettu/archive/master.tar.gz" \
   && tar xf /tmp/kettu.tar.gz -C /kettu --strip-components=1 \
+  && mkdir /shift \
+  && curl -o /tml/shift.zip -L "https://github.com/killemov/Shift/archive/master.zip" \
+  && unzio /tmp/shift.zip -d /shift \
   && echo "*** Cleanup ***" \
   && rm -rf /tmp/*
 

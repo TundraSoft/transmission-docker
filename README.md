@@ -117,5 +117,6 @@ Below themes are pre-installed for your benifit:
 - Combustion Release (combusion-release)
 - Kettu (kettu)
 - Transmission Web Control (transmission-web-control)
+- Shift (shift)
 
 To use a theme, set the value for environment variable to one of the above. If left blank the default theme will take over

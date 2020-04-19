@@ -4,3 +4,4 @@
 /combustion-release true 1000:1000 0755 0755
 /transmission-web-control true 1000:1000 0755 0755
 /kettu true 1000:1000 0755 0755
+/shift true 1000:1000 0755 0755
